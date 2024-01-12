@@ -1,0 +1,21 @@
+0xD423bFaD7E1241B249F36CFE3F33027Af182B191
+: 
+{walletAddress: "0xD423bFaD7E1241B249F36CFE3F33027Af182B191",…}
+key
+: 
+"61ab84b1-ac68-caae-9512-14145b1ff6ae"
+legacySigning
+: 
+false
+passphrase
+: 
+"Y-bxOO5ABR-gqk5RNs64"
+secret
+: 
+"Rwgmm-veB1ZWEIWB_TTrsos4eqyvl5Eycra_jKYr"
+walletAddress
+: 
+"0xD423bFaD7E1241B249F36CFE3F33027Af182B191"
+walletType
+: 
+"METAMASK"
