@@ -1,2 +1,2 @@
-# DyDx trading bot
- Python DyDx trading bot 
+# dYdX trading bot
+ This is a Python dYdX trading bot
