@@ -8,7 +8,7 @@ MODE = "DEVELOPMENT" # switch between PRODUCTION or DEVELOPMENT
 ABORT_ALL_POSITIONS = True
 
 # Find Cointegrated Pairs
-FIND_COINTEGRATED = False
+FIND_COINTEGRATED = True
 
 # Manage Exits
 MANAGE_EXITS = True

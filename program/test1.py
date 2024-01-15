@@ -10,6 +10,11 @@ from func_messaging import send_message
 
 # MAIN FUNCTION
 if __name__ == "__main__":
+
+  # Message on start
+  success = send_message("Bot launch successful")
+  print(success)
+  exit(1)
   
   # Connect to client
   try:
