@@ -56,7 +56,7 @@ def store_cointegration_results(df_market_prices):
   criteria_met_pairs = []
 
   # Find cointegrated pairs
-  # Start with our base pair
+  # Start with our Base Pair
   for index, base_market in enumerate(markets[:-1]):
     series_1 = df_market_prices[base_market].values.astype(float).tolist()
 
@@ -81,7 +81,7 @@ def store_cointegration_results(df_market_prices):
   df_criteria_met.to_csv("cointegrated_pairs.csv")
   del df_criteria_met
 
-  # Return result
+  # Return results
   print("Cointegrated pairs successfully saved")
   return "saved"
 
